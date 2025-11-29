@@ -11,7 +11,7 @@
 - 🎓 Alumni of **Moringa School** – Software Engineering Bootcamp  
 - 💡 Passionate about building products that solve **real-world problems**  
 - 🌍 Currently working on **Jiseti**, a civic-tech app for reporting corruption  
-- 🧠 Love breaking down **complex algorithms** in **Java** and **Python**  
+- 🧠 Love breaking down **complex algorithms** in **Javascript** and **Python**  
 - 🧑‍🏫 Aspiring mentor and tech community contributor  
 
 ---
@@ -19,11 +19,11 @@
 ### ⚙️ Tech Stack
 
 ```yaml
-Languages: Java, Python, JavaScript, HTML/CSS, SQL
-Frontend: React, Tailwind, Redux Toolkit, Vite
+Languages: Typescipt, Python, JavaScript, HTML/CSS, SQL
+Frontend: React, Angular
 Backend: Flask, JWT, Supabase, Cloudinary
 Databases: PostgreSQL, SQLite (SQLAlchemy ORM, Alembic)
-Tools: Git/GitHub, Axios, Formik, Toast, json-server
+Tools: Git/GitHub, Axios, Toast, json-server
 DevOps: AWS CloudWatch, Render, SMTP
 ```
 
