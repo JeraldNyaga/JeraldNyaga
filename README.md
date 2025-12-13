@@ -27,11 +27,5 @@ Tools: Git/GitHub, Axios, Toast, json-server
 DevOps: AWS CloudWatch, Render, SMTP
 ```
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeraldnyaga&show_icons=true&theme=yellowblue&count_private=true" alt="GitHub Stats" /></p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeraldnyaga&theme=yellowblue&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ### 📫 Let’s Connect!
 <p> <a href="https://www.linkedin.com/in/jerald-nyaga-0185451b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a> <a href="mailto:jeraldnyaga15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail" /></a> </p>
