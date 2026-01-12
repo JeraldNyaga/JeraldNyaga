@@ -10,8 +10,8 @@
 - 🎓 Studied **Computer Science and Informatics** at **Strathmore University**
 - 🎓 Alumni of **Moringa School** – Software Engineering Bootcamp  
 - 💡 Passionate about building products that solve **real-world problems**  
-- 🌍 Currently working on **Jiseti**, a civic-tech app for reporting corruption  
-- 🧠 Love breaking down **complex algorithms** in **Javascript** and **Python**  
+- 🌍 Currently working on **Tenzies**, an end game for programming languages (A hangman wanabee)
+- 🧠 Love breaking down **complex algorithms** in **Typescript, Javascript** and **Python**  
 - 🧑‍🏫 Aspiring mentor and tech community contributor  
 
 ---
@@ -20,11 +20,11 @@
 
 ```yaml
 Languages: Typescipt, Python, JavaScript, HTML/CSS, SQL
-Frontend: React, Angular
-Backend: Flask, JWT, Supabase, Cloudinary
+Frontend: React
+Backend: Flask, JWT, Supabase, Cloudinary, FastApi
 Databases: PostgreSQL, SQLite (SQLAlchemy ORM, Alembic)
-Tools: Git/GitHub, Axios, Toast, json-server
-DevOps: AWS CloudWatch, Render, SMTP
+Tools: Git/GitHub
+DevOps: AWS
 ```
 
 ### 📫 Let’s Connect!
